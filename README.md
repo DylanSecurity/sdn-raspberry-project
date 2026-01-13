@@ -25,6 +25,6 @@ En la Raspberry destinada a ser el nodo:
 2. Dar permisos: chmod +x setup_node.sh
 3. Ejecutar: ./setup_node.sh
 
-✅ Verificación
-Para validar la conexión, ejecutar en el nodo:
+## ✅ Verificación
+### Para validar la conexión, ejecutar en el nodo:
 `sudo ovs-vsctl show`
